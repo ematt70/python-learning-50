@@ -133,7 +133,7 @@ cd python-50-exercises
 Make sure Python 3.10 or later is installed:
 
 ```bash
-python --version
+python3 --version
 ```
 
 Optionally, create a virtual environment to keep dependencies clean:
