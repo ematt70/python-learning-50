@@ -14,7 +14,7 @@ Expected Output:
 
 def main():
     # Write your code below:
-    pass
+    print("Hello, World")
 
 if __name__ == "__main__":
     main()

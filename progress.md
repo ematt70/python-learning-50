@@ -13,7 +13,7 @@ Symbols:
 
 | Exercise | Status | Date | Notes |
 |---------|--------|------|-------|
-| Ex01 — Hello World | ⬜ | — | |
+| Ex01 — Hello World | ✅ | 26Sep2026 | |
 | Ex02 — Variables & Types | ⬜ | — | |
 | Ex03 — User Input | ⬜ | — | |
 | Ex04 — Arithmetic | ⬜ | — | |
