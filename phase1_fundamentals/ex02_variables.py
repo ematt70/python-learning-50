@@ -18,7 +18,15 @@ Expected Output (example):
 
 def main():
     # Write your code below:
-    pass
+    var_int = 42
+    var_float = 3.14
+    var_str = "Hello"
+    var_bool = True
+
+    print(var_int, type(var_int))
+    print(var_float, type(var_float))
+    print(var_str, type(var_str))
+    print(var_bool, type(var_bool))
 
 if __name__ == "__main__":
     main()
