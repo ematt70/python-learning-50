@@ -16,9 +16,15 @@ Expected Interaction:
     Hello Erich, you are 42 years old!
 """
 
+from unicodedata import name
+
+
 def main():
     # Write your code below:
-    pass
+    name = input("Enter your name: ")
+    age = int(input("Enter your age: "))
+
+    print(f"Hello {name}, you are {age} years old!")
 
 if __name__ == "__main__":
     main()
