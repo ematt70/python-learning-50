@@ -16,7 +16,7 @@ Symbols:
 | Ex01 — Hello World | ✅ | 26Sept2026 | |
 | Ex02 — Variables & Types | ✅ | 26Sept2026 | |
 | Ex03 — User Input | ✅ | 26Sept2026 | |
-| Ex04 — Arithmetic | ⬜ | — | |
+| Ex04 — Arithmetic | ✅ | 26Sept2026 | |
 | Ex05 — String Formatting | ⬜ | — | |
 | Ex06 — Conditionals | ⬜ | — | |
 | Ex07 — While Loops | ⬜ | — | |
