@@ -14,7 +14,11 @@ Expected Output:
 
 def main():
     # Write your code below:
-    pass
+    noun = str(input("Please provide a noun: "))
+    verb = str(input("Please provide a verb: "))
+    place = str(input("Please provide a place: "))
+
+    print(f"Today, the {noun} decided to {verb} at the {place}.")
 
 if __name__ == "__main__":
     main()
