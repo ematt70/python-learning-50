@@ -18,9 +18,9 @@ Symbols:
 | Ex03 — User Input | ✅ | 26Sept2026 | |
 | Ex04 — Arithmetic | ✅ | 26Sept2026 | |
 | Ex05 — String Formatting | ✅ | 27Sept2026 | |
-| Ex06 — Conditionals | ⬜ | — | |
-| Ex07 — While Loops | ⬜ | — | |
-| Ex08 — For Loops | ⬜ | — | |
+| Ex06 — Conditionals | ✅ | 29Sept2026 | |
+| Ex07 — While Loops | ✅ | 29Sept2026 | |
+| Ex08 — For Loops | ✅ | 29Sept2026 | |
 | Ex09 — Nested Logic | ⬜ | — | |
 | Ex10 — Calculator | ⬜ | — | |
 
