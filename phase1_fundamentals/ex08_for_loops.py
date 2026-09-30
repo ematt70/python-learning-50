@@ -18,7 +18,10 @@ Expected Output:
 
 def main():
     # Write your code below:
-    pass
+    for i in range(2, 101, 2):
+        if i % 2 == 0:
+            print(i)
+        
 
 if __name__ == "__main__":
     main()
