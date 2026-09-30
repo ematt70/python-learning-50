@@ -23,7 +23,7 @@ Expected Output:
 
 def main():
     # Write your code below:
-    i=1
+    i = 1
     while (i <= 10):
         print(i)
         i += 1
