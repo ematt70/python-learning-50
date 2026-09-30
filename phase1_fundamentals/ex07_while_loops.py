@@ -23,7 +23,13 @@ Expected Output:
 
 def main():
     # Write your code below:
-    pass
+    for i in range(1, 11):
+        print(i)
+
+    print("---")
+
+    for j in reversed(range(1, 11)):
+        print(j)
 
 if __name__ == "__main__":
     main()
