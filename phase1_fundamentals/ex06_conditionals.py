@@ -17,7 +17,19 @@ Expected Output:
 
 def main():
     # Write your code below:
-    pass
+    number = int(input("Please enter a number: "))
+
+    if number > 0:
+        print("The number you entered is positive.")
+    elif number < 0:
+        print("The number you entered is negative.")
+    else:
+        print("The number you entered is zero.")
+
+    if number % 2 == 0:
+        print("The number you entered is even.")
+    else:
+        print("The number you entered is odd.")
 
 if __name__ == "__main__":
     main()
