@@ -23,13 +23,17 @@ Expected Output:
 
 def main():
     # Write your code below:
-    for i in range(1, 11):
+    i=1
+    while (i <= 10):
         print(i)
+        i += 1
 
     print("---")
 
-    for j in reversed(range(1, 11)):
+    j = 10
+    while (j > 0):
         print(j)
+        j -= 1
 
 if __name__ == "__main__":
     main()
