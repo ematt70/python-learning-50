@@ -83,6 +83,12 @@ source venv/bin/activate      # macOS / Linux
 venv\Scripts\activate         # Windows
 ```
 
+### 3. Copy all exercises/folders from the templates folder to the root directory
+
+```bash
+cp -r templates/* .     # copy all templates subfolders and contents to repo root
+```
+
 ### 3. Work through exercises in order
 
 Run any exercise:
