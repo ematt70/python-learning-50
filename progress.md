@@ -22,7 +22,7 @@ Symbols:
 | Ex07 — While Loops | ✅ | 29Sept2026 | |
 | Ex08 — For Loops | ✅ | 29Sept2026 | |
 | Ex09 — Nested Logic | ✅ | 30Sept2026 | |
-| Ex10 — Calculator | ⬜ | — | |
+| Ex10 — Calculator | ✅ | 30Sept2026 | |
 
 ---
 
