@@ -20,7 +20,11 @@ Expected Output:
 
 def main():
     # Write your code below:
-    pass
+    numberList = [17, 331, 199, 87, 34]
+
+    print(f"First: {numberList[0]}")
+    print(f"Middle: {numberList[len(numberList)//2]}")
+    print(f"Last: {numberList[-1]}")
 
 if __name__ == "__main__":
     main()
