@@ -31,7 +31,7 @@ Symbols:
 | Exercise | Status | Date | Notes |
 |---------|--------|------|-------|
 | Ex11 — Lists Intro | ✅ | 06Oct2026 | |
-| Ex12 — List Methods | ⬜ | — | |
+| Ex12 — List Methods | ✅ | 06Oct2026 | |
 | Ex13 — Looping Lists | ⬜ | — | |
 | Ex14 — List Comprehensions | ⬜ | — | |
 | Ex15 — Tuples | ⬜ | — | |
