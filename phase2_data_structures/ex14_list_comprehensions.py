@@ -17,7 +17,16 @@ Expected Output:
 
 def main():
     # Write your code below:
-    pass
+    squareList = []
+    evenSquareList = []
+    for number in range(1, 11):
+        squareList.append(number ** 2)
+        if ((number ** 2) % 2 == 0):
+            evenSquareList.append(number ** 2)
+
+    print(f"Squares: {squareList}")
+    print(f"Even squares: {evenSquareList}")
+    
 
 if __name__ == "__main__":
     main()
