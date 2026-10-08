@@ -17,7 +17,10 @@ Expected Output:
 
 def main():
     # Write your code below:
-    pass
+    groceryList = ['milk', 'eggs', 'bread', 'coffee']
+
+    for index, groceryItem in enumerate(groceryList):
+        print(f"{index}: {groceryItem}")
 
 if __name__ == "__main__":
     main()
