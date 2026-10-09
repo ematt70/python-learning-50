@@ -21,7 +21,17 @@ Expected Output:
 
 def main():
     # Write your code below:
-    pass
+    setOne = {1, 2, 3, 4}
+    setTwo = {3, 4, 5, 6}
+    union = setOne | setTwo
+    intersection = setOne & setTwo
+    differenceAB = setOne - setTwo
+    differenceBA = setTwo - setOne
+
+    print(f"Union: {union}")
+    print(f"Intersection: {intersection}")
+    print(f"Difference A-B: {differenceAB}")
+    print(f"Difference B-A: {differenceBA}")
 
 if __name__ == "__main__":
     main()
