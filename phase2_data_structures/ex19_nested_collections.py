@@ -23,7 +23,31 @@ Expected Output:
 
 def main():
     # Write your code below:
-    pass
+    usersList = [
+        {
+            'name': 'Alice',
+            'age': 25,
+        },
+        {
+            'name': 'Bob',
+            'age': 35,
+        },
+        {
+            'name': 'Charlie',
+            'age': 30,
+        },
+    ]
+    oldUsers = []
 
+    print("All users:")
+    for user in usersList:
+        print(user)
+        if(user.get('age') >= 30):
+            oldUsers.append(user)
+
+    print(f"\nUsers age >= 30:")
+    for user in oldUsers:
+        print(user)
+        
 if __name__ == "__main__":
     main()
