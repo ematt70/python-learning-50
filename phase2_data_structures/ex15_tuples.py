@@ -17,7 +17,12 @@ Expected Output:
 
 def main():
     # Write your code below:
-    pass
+    myTuple = (3, 7)
+    x, y = myTuple
+
+    print(f"Point: {myTuple}")
+    print(f"x: {x}")
+    print(f"y: {y}")
 
 if __name__ == "__main__":
     main()
