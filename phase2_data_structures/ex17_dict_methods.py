@@ -22,7 +22,18 @@ Expected Output:
 
 def main():
     # Write your code below:
-    pass
+    personDict = {
+        "name": "Erich",
+        "age": "42",
+        "city": "Davenport"
+    }
+
+    print(f"Keys: {personDict.keys()}")
+    print(f"Values: {personDict.values()}")
+    print(f"Items: {personDict.items()}")
+    print(f"Get name: {personDict.get("name")}")
+    print(f"Get country: {personDict.get("country", "Unknown")}")
+
 
 if __name__ == "__main__":
     main()

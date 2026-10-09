@@ -36,7 +36,7 @@ Symbols:
 | Ex14 — List Comprehensions | ✅ | 07Oct2026 | |
 | Ex15 — Tuples | ✅ | 09Oct2026 | |
 | Ex16 — Dictionaries Intro | ✅ | 07Oct2026 | |
-| Ex17 — Dictionary Methods | ⬜ | — | |
+| Ex17 — Dictionary Methods | ✅ | 07Oct2026 | |
 | Ex18 — Sets | ⬜ | — | |
 | Ex19 — Nested Collections | ⬜ | — | |
 | Ex20 — Contact Book | ⬜ | — | |
