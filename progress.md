@@ -35,7 +35,7 @@ Symbols:
 | Ex13 — Looping Lists | ✅ | 07Oct2026 | |
 | Ex14 — List Comprehensions | ✅ | 07Oct2026 | |
 | Ex15 — Tuples | ✅ | 09Oct2026 | |
-| Ex16 — Dictionaries Intro | ⬜ | — | |
+| Ex16 — Dictionaries Intro | ✅ | 07Oct2026 | |
 | Ex17 — Dictionary Methods | ⬜ | — | |
 | Ex18 — Sets | ⬜ | — | |
 | Ex19 — Nested Collections | ⬜ | — | |

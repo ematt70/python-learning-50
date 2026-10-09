@@ -19,7 +19,16 @@ Expected Output:
 
 def main():
     # Write your code below:
-    pass
+    personDict = {
+        "name": "Erich",
+        "age": "42",
+        "city": "Davenport"
+    }
+
+    print(f"Name: {personDict["name"]}")
+    print(f"Age: {personDict["age"]}")
+    print(f"City: {personDict["city"]}")
+          
 
 if __name__ == "__main__":
     main()
