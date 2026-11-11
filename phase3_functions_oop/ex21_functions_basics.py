@@ -18,9 +18,22 @@ Expected Output (example):
     11 is prime.
 """
 
+def is_prime(userNumber: int):
+    if(userNumber <= 1):
+        return False
+    for i in range(2, int(userNumber ** 0.5)):
+        if(userNumber % i == 0):
+            return False
+    return True
+    
+
 def main():
-    # Write your code below:
-    pass
+    number = int(input("Please enter a number: "))
+
+    if(is_prime(number) == True):
+        print(f"{number} is prime.")
+    else:
+        print(f"{number} is not prime.")
 
 if __name__ == "__main__":
     main()

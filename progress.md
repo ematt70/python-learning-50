@@ -39,7 +39,7 @@ Symbols:
 | Ex17 — Dictionary Methods | ✅ | 09Oct2026 | |
 | Ex18 — Sets | ✅ | 09Oct2026 | |
 | Ex19 — Nested Collections | ✅ | 09Oct2026 | |
-| Ex20 — Contact Book | ⬜ | — | |
+| Ex20 — Contact Book | ✅ | 11Nov2026 | |
 
 ---
 
@@ -47,7 +47,7 @@ Symbols:
 
 | Exercise | Status | Date | Notes |
 |---------|--------|------|-------|
-| Ex21 — Functions Basics | ⬜ | — | |
+| Ex21 — Functions Basics | ✅ | 11Nov2026 | |
 | Ex22 — Parameters & Defaults | ⬜ | — | |
 | Ex23 — Args & Kwargs | ⬜ | — | |
 | Ex24 — Scope | ⬜ | — | |
