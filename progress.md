@@ -48,7 +48,7 @@ Symbols:
 | Exercise | Status | Date | Notes |
 |---------|--------|------|-------|
 | Ex21 — Functions Basics | ✅ | 11Nov2026 | |
-| Ex22 — Parameters & Defaults | ⬜ | — | |
+| Ex22 — Parameters & Defaults | ✅ | 11Nov26 | |
 | Ex23 — Args & Kwargs | ⬜ | — | |
 | Ex24 — Scope | ⬜ | — | |
 | Ex25 — Lambda | ⬜ | — | |

@@ -16,9 +16,20 @@ Expected Output:
     Welcome, Erich!
 """
 
+def greet(name, greeting="Hello"):
+    print(f"{greeting}, {name}!")
+
 def main():
     # Write your code below:
-    pass
+    
+    yourName = str(input("Please enter a name: "))
+    yourGreeting = str(input("Please enter a greeting, or <ENTER> for default greeting: "))
+    
+    if(yourGreeting.strip()):
+        greet(yourName, yourGreeting)
+    else:
+        greet(yourName)
+
 
 if __name__ == "__main__":
     main()
